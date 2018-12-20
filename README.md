@@ -30,7 +30,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [animeotaku](https://github.com/aerootaku)
+* **KIO HOVIERA** - *Initial work* - [animeotaku](https://github.com/aerootaku)
 
 ## License
 
